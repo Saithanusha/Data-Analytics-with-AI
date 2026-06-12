@@ -32,9 +32,9 @@ A personal portfolio website created to showcase my skills, projects, certificat
 - Responsive design
 
 #### Technologies Used
-- HTML
-- CSS
-- JavaScript
+- Google Collab
+- Pandas and Numpy
+- Jupyter Notebook
 
 ## Skills Demonstrated
 - Data Analysis
